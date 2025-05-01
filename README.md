@@ -22,7 +22,7 @@ The site includes the following sections:
 
 ## 🖥 Live Demo
 
-🔗 [Visit the published page](https://github.com/omarEstradaCastillo/my-web-page)
+🔗 [Visit the published page](https://omarestradacastillo.github.io/my-web-page)
 
 > This website is hosted via **GitHub Pages**.
 
