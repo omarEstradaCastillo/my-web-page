@@ -31,13 +31,17 @@ The site includes the following sections:
 While my primary role is Manual QA, this project reinforces my understanding of front-end structure (DOM), responsive layout, and HTML semantics—enhancing my collaboration with developers and improving my ability to validate UI and behavior in modern web apps.
 
 ## 📂 Project Structure
+
+```
 my-web-page/
 ├── index.html
 ├── css/
-│   └── normalize.css
+│   ├── normalize.css
 │   └── styles.css
 ├── img/
+│   └── logo.svg
 └── README.md
+```
 
 ## 👤 Author
 
